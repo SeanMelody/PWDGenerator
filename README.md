@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
+
+https://seanmelody.github.io/PWDGenerator/
+
 ### Personal Dashboard APP
 ```
 Coding bootcamp project completed with fellow zoom classmates.
@@ -37,3 +41,9 @@ Photo by Damiano Lingauri on Unsplash
 
 Click me
 ```
+
+### Contact Us:
+Archana Gottipaty (https://github.com/archanagottipaty)
+Daisy Delgadillo (https://github.com/DaisyDelgadillo)
+Francisco Rones (https://github.com/francisN21)
+Sean Melody (https://github.com/SeanMelody)
