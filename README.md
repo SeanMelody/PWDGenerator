@@ -29,17 +29,10 @@ You can even generate fun phrases using this password generator.
 
 ```
 
-### Background Photo
-```
-Photo by Damiano Lingauri on Unsplash
-![Background image](https://images.unsplash.com/photo-1584890132374-d69d5d01483e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
-```
-
 ### Demo
 ```
-![PWD Demo](https://github.com/DaisyDelgadillo/PWDGenerator-1/blob/main/assets/demo/PWD.gif?raw=true)
+![PWD Generator](https://user-images.githubusercontent.com/68625400/99763648-3400a400-2ab0-11eb-84ab-97c0be86e9f5.gif)
 
-Click me
 ```
 
 ### Contact Us:
