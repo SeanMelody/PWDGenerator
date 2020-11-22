@@ -31,7 +31,12 @@ You can even generate fun phrases using this password generator.
 
 ### Demo
 ```
-![PWD Generator](https://user-images.githubusercontent.com/68625400/99763648-3400a400-2ab0-11eb-84ab-97c0be86e9f5.gif)
+
+![PWD Screenshot 1](https://user-images.githubusercontent.com/68625400/99890498-d76ac980-2c14-11eb-92f6-77c37f2d6d97.png)
+![PWD Screenshot 2](https://user-images.githubusercontent.com/68625400/99890499-d8036000-2c14-11eb-9dce-3bd45e16b360.png)
+![PWD Screenshot 3](https://user-images.githubusercontent.com/68625400/99890500-d9cd2380-2c14-11eb-9fc2-7c5b178d5fa0.png)
+![PWD Screenshot 4](https://user-images.githubusercontent.com/68625400/99890501-dafe5080-2c14-11eb-8c7c-52a0104b46e7.png)
+
 
 ```
 
